@@ -24,7 +24,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/coinbase-samples/commerce-sdk-go"
+	commerce "github.com/plvr/coinbase-commerce-sdk-go"
 )
 
 func TestCreateCharge(t *testing.T) {

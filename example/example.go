@@ -22,7 +22,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/coinbase-samples/commerce-sdk-go"
+	commerce "github.com/plvr/coinbase-commerce-sdk-go"
 )
 
 func main() {

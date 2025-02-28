@@ -25,7 +25,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/coinbase-samples/commerce-sdk-go"
+	commerce "github.com/plvr/coinbase-commerce-sdk-go"
 )
 
 func TestShowEvent(t *testing.T) {

@@ -1,3 +1,3 @@
-module github.com/coinbase-samples/commerce-sdk-go
+module github.com/plvr/coinbase-commerce-sdk-go
 
 go 1.20
